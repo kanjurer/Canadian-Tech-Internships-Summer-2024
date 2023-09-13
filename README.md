@@ -1,4 +1,4 @@
-# Canadian Tech Internships for Summer 2024 
+# Canadian Tech Internships for Summer 2024
 
 ![Canadian-Tech-Internships-Summer-2024.png](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023/assets/35787431/6889a3c8-0134-40e2-8cc5-516a58fa16e9)
 ![Canadian-Tech-Internships-Summer-2024-Image-2.png](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023/assets/35787431/1fd21fba-1868-4910-a29f-70c8dc60583e)
@@ -19,7 +19,7 @@ To contribute:
 
 | Name                                                                                                                                                       | Location                                | Application Period   | Notes                                                                                          | Date Posted |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------- | ----------- |
-| [Balyasny Asset Management L.P.](https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ5035)                          | Toronto                                 | Unknown              | Software Engineering (Summer Internship)                              | Sep 12      |
+| [Balyasny Asset Management L.P.](https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ5035)                          | Toronto                                 | Unknown              | Software Engineering (Summer Internship)                                                       | Sep 12      |
 | [RBC Amplify](https://jobs.rbc.com/ca/en/amplify)                                                                                                          | Toronto                                 | Before October 8     | Software Engineer, Data Engineer, Business Analyst (Product Manager) Internships               | Sep 12      |
 | [Konrad](https://www.konrad.com/careers/job/software-developer-intern-may-2024-4-months_5730015003)                                                        | Toronto                                 | Unknown              | Software Developer Intern - May 2024 (4 months)                                                | Sep 10      |
 | [Ansys](https://careers.ansys.com/search/)                                                                                                                 | Vancouver                               | Unknown              | Multiple Positions Summer 2024                                                                 | Sep 8       |
