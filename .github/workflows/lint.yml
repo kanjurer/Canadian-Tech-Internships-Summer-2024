@@ -8,7 +8,7 @@ name: Linter
 on:
   push:
     branches:
-      - '*'
+      - main
 
 permissions:
   contents: write
