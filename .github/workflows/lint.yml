@@ -25,3 +25,12 @@ jobs:
         uses: creyD/prettier_action@v4.3
         with:
           prettier_options: --write **/*.md
+
+      - name: Debugging Step 1
+        run: echo "Current Directory; $PWD"
+
+      - name: Debugging Step 2
+        run: git remote -v
+
+      - name: Debugging Step 3
+        run: git status
